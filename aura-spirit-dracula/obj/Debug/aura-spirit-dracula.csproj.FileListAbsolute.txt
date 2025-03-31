@@ -1,0 +1,13 @@
+C:\Source\vs2022-themes\aura-spirit-dracula\bin\Debug\aura-spirit-dracula.vsix
+C:\Source\vs2022-themes\aura-spirit-dracula\bin\Debug\extension.vsixmanifest
+C:\Source\vs2022-themes\aura-spirit-dracula\obj\Debug\aura-spirit-dracula.csproj.AssemblyReference.cache
+C:\Source\vs2022-themes\aura-spirit-dracula\obj\Debug\_EmptyResource.resources
+C:\Source\vs2022-themes\aura-spirit-dracula\obj\Debug\aura-spirit-dracula.csproj.GenerateResource.cache
+C:\Source\vs2022-themes\aura-spirit-dracula\obj\Debug\aura-spirit-dracula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\vs2022-themes\aura-spirit-dracula\obj\Debug\aura-spirit-dracula.csproj.CoreCompileInputs.cache
+C:\Source\vs2022-themes\aura-spirit-dracula\obj\Debug\aura-spirit-dracula.dll
+C:\Source\vs2022-themes\aura-spirit-dracula\obj\Debug\aura-spirit-dracula.pdb
+C:\Source\vs2022-themes\aura-spirit-dracula\obj\Debug\extension.vsixmanifest
+C:\Source\vs2022-themes\aura-spirit-dracula\obj\Debug\files.json
+C:\Source\vs2022-themes\aura-spirit-dracula\obj\Debug\createTemplateManifests.cache
+C:\Source\vs2022-themes\aura-spirit-dracula\bin\Debug\aura-spirit-dracula.pkgdef
