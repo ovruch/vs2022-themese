@@ -1,0 +1,13 @@
+C:\Users\alex\source\repos\kanagawa_wave\bin\Debug\kanagawa_wave.vsix
+C:\Users\alex\source\repos\kanagawa_wave\bin\Debug\extension.vsixmanifest
+C:\Users\alex\source\repos\kanagawa_wave\obj\Debug\kanagawa_wave.csproj.AssemblyReference.cache
+C:\Users\alex\source\repos\kanagawa_wave\obj\Debug\_EmptyResource.resources
+C:\Users\alex\source\repos\kanagawa_wave\obj\Debug\kanagawa_wave.csproj.GenerateResource.cache
+C:\Users\alex\source\repos\kanagawa_wave\obj\Debug\kanagawa_wave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\source\repos\kanagawa_wave\obj\Debug\kanagawa_wave.csproj.CoreCompileInputs.cache
+C:\Users\alex\source\repos\kanagawa_wave\obj\Debug\kanagawa_wave.dll
+C:\Users\alex\source\repos\kanagawa_wave\obj\Debug\kanagawa_wave.pdb
+C:\Users\alex\source\repos\kanagawa_wave\obj\Debug\extension.vsixmanifest
+C:\Users\alex\source\repos\kanagawa_wave\obj\Debug\files.json
+C:\Users\alex\source\repos\kanagawa_wave\obj\Debug\createTemplateManifests.cache
+C:\Users\alex\source\repos\kanagawa_wave\bin\Debug\kanagawa-wave.pkgdef

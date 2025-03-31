@@ -1,0 +1,13 @@
+C:\Source\toltheme\bin\Debug\extension.vsixmanifest
+C:\Source\toltheme\obj\Debug\toltheme.csproj.AssemblyReference.cache
+C:\Source\toltheme\obj\Debug\_EmptyResource.resources
+C:\Source\toltheme\obj\Debug\toltheme.csproj.GenerateResource.cache
+C:\Source\toltheme\obj\Debug\toltheme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\toltheme\obj\Debug\toltheme.csproj.CoreCompileInputs.cache
+C:\Source\toltheme\obj\Debug\extension.vsixmanifest
+C:\Source\toltheme\obj\Debug\files.json
+C:\Source\toltheme\obj\Debug\createTemplateManifests.cache
+C:\Source\toltheme\bin\Debug\rose-pine-moon.pkgdef
+C:\Source\toltheme\bin\Debug\rose-pine-moon.vsix
+C:\Source\toltheme\obj\Debug\rose-pine-moon.dll
+C:\Source\toltheme\obj\Debug\rose-pine-moon.pdb

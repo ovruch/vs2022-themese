@@ -1,0 +1,13 @@
+C:\Source\everforest-dark-theme\bin\Debug\everforest.pkgdef
+C:\Source\everforest-dark-theme\bin\Debug\everforest-dark-theme.vsix
+C:\Source\everforest-dark-theme\bin\Debug\extension.vsixmanifest
+C:\Source\everforest-dark-theme\obj\Debug\everforest-dark-theme.csproj.AssemblyReference.cache
+C:\Source\everforest-dark-theme\obj\Debug\_EmptyResource.resources
+C:\Source\everforest-dark-theme\obj\Debug\everforest-dark-theme.csproj.GenerateResource.cache
+C:\Source\everforest-dark-theme\obj\Debug\everforest-dark-theme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\everforest-dark-theme\obj\Debug\everforest-dark-theme.csproj.CoreCompileInputs.cache
+C:\Source\everforest-dark-theme\obj\Debug\everforest-dark-theme.dll
+C:\Source\everforest-dark-theme\obj\Debug\everforest-dark-theme.pdb
+C:\Source\everforest-dark-theme\obj\Debug\extension.vsixmanifest
+C:\Source\everforest-dark-theme\obj\Debug\files.json
+C:\Source\everforest-dark-theme\obj\Debug\createTemplateManifests.cache

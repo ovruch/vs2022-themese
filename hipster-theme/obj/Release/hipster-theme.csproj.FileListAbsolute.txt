@@ -1,0 +1,13 @@
+C:\source\hipster-theme\bin\Release\hipster.pkgdef
+C:\source\hipster-theme\bin\Release\hipster-theme.vsix
+C:\source\hipster-theme\bin\Release\extension.vsixmanifest
+C:\source\hipster-theme\obj\Release\hipster-theme.csproj.AssemblyReference.cache
+C:\source\hipster-theme\obj\Release\_EmptyResource.resources
+C:\source\hipster-theme\obj\Release\hipster-theme.csproj.GenerateResource.cache
+C:\source\hipster-theme\obj\Release\hipster-theme.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\hipster-theme\obj\Release\hipster-theme.csproj.CoreCompileInputs.cache
+C:\source\hipster-theme\obj\Release\hipster-theme.dll
+C:\source\hipster-theme\obj\Release\hipster-theme.pdb
+C:\source\hipster-theme\obj\Release\extension.vsixmanifest
+C:\source\hipster-theme\obj\Release\files.json
+C:\source\hipster-theme\obj\Release\createTemplateManifests.cache

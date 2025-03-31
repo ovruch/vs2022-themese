@@ -1,0 +1,13 @@
+C:\Source\sequoia monochrome\bin\Debug\sequoia monochrome.pkgdef
+C:\Source\sequoia monochrome\bin\Debug\sequoia monochrome.vsix
+C:\Source\sequoia monochrome\bin\Debug\extension.vsixmanifest
+C:\Source\sequoia monochrome\obj\Debug\sequoia monochrome.csproj.AssemblyReference.cache
+C:\Source\sequoia monochrome\obj\Debug\_EmptyResource.resources
+C:\Source\sequoia monochrome\obj\Debug\sequoia monochrome.csproj.GenerateResource.cache
+C:\Source\sequoia monochrome\obj\Debug\sequoia monochrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\sequoia monochrome\obj\Debug\sequoia monochrome.csproj.CoreCompileInputs.cache
+C:\Source\sequoia monochrome\obj\Debug\sequoia monochrome.dll
+C:\Source\sequoia monochrome\obj\Debug\sequoia monochrome.pdb
+C:\Source\sequoia monochrome\obj\Debug\extension.vsixmanifest
+C:\Source\sequoia monochrome\obj\Debug\files.json
+C:\Source\sequoia monochrome\obj\Debug\createTemplateManifests.cache

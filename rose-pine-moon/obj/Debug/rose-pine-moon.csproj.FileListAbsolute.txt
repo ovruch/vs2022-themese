@@ -1,0 +1,13 @@
+C:\Source\rose-pine-moon\bin\Debug\rose-pine-moon.pkgdef
+C:\Source\rose-pine-moon\bin\Debug\rose-pine-moon.vsix
+C:\Source\rose-pine-moon\bin\Debug\extension.vsixmanifest
+C:\Source\rose-pine-moon\obj\Debug\rose-pine-moon.csproj.AssemblyReference.cache
+C:\Source\rose-pine-moon\obj\Debug\_EmptyResource.resources
+C:\Source\rose-pine-moon\obj\Debug\rose-pine-moon.csproj.GenerateResource.cache
+C:\Source\rose-pine-moon\obj\Debug\rose-pine-moon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\rose-pine-moon\obj\Debug\rose-pine-moon.csproj.CoreCompileInputs.cache
+C:\Source\rose-pine-moon\obj\Debug\rose-pine-moon.dll
+C:\Source\rose-pine-moon\obj\Debug\rose-pine-moon.pdb
+C:\Source\rose-pine-moon\obj\Debug\extension.vsixmanifest
+C:\Source\rose-pine-moon\obj\Debug\files.json
+C:\Source\rose-pine-moon\obj\Debug\createTemplateManifests.cache

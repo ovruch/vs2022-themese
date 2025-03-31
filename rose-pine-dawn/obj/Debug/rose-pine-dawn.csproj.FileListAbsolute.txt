@@ -1,0 +1,13 @@
+C:\Source\rose-pine-dawn\bin\Debug\rose-pine-dawn.pkgdef
+C:\Source\rose-pine-dawn\bin\Debug\rose-pine-dawn.vsix
+C:\Source\rose-pine-dawn\bin\Debug\extension.vsixmanifest
+C:\Source\rose-pine-dawn\obj\Debug\rose-pine-dawn.csproj.AssemblyReference.cache
+C:\Source\rose-pine-dawn\obj\Debug\_EmptyResource.resources
+C:\Source\rose-pine-dawn\obj\Debug\rose-pine-dawn.csproj.GenerateResource.cache
+C:\Source\rose-pine-dawn\obj\Debug\rose-pine-dawn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\rose-pine-dawn\obj\Debug\rose-pine-dawn.csproj.CoreCompileInputs.cache
+C:\Source\rose-pine-dawn\obj\Debug\rose-pine-dawn.dll
+C:\Source\rose-pine-dawn\obj\Debug\rose-pine-dawn.pdb
+C:\Source\rose-pine-dawn\obj\Debug\extension.vsixmanifest
+C:\Source\rose-pine-dawn\obj\Debug\files.json
+C:\Source\rose-pine-dawn\obj\Debug\createTemplateManifests.cache

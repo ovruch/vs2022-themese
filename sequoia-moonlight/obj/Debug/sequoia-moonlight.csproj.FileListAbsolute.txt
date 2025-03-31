@@ -1,0 +1,13 @@
+C:\Source\sequoia-moonlight\bin\Debug\sequoia moonlight.pkgdef
+C:\Source\sequoia-moonlight\bin\Debug\sequoia-moonlight.vsix
+C:\Source\sequoia-moonlight\bin\Debug\extension.vsixmanifest
+C:\Source\sequoia-moonlight\obj\Debug\sequoia-moonlight.csproj.AssemblyReference.cache
+C:\Source\sequoia-moonlight\obj\Debug\_EmptyResource.resources
+C:\Source\sequoia-moonlight\obj\Debug\sequoia-moonlight.csproj.GenerateResource.cache
+C:\Source\sequoia-moonlight\obj\Debug\sequoia-moonlight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\sequoia-moonlight\obj\Debug\sequoia-moonlight.csproj.CoreCompileInputs.cache
+C:\Source\sequoia-moonlight\obj\Debug\sequoia-moonlight.dll
+C:\Source\sequoia-moonlight\obj\Debug\sequoia-moonlight.pdb
+C:\Source\sequoia-moonlight\obj\Debug\extension.vsixmanifest
+C:\Source\sequoia-moonlight\obj\Debug\files.json
+C:\Source\sequoia-moonlight\obj\Debug\createTemplateManifests.cache
