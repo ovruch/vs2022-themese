@@ -1,0 +1,13 @@
+C:\Source\vs2022-themes\city-lights\bin\Debug\city-lights.pkgdef
+C:\Source\vs2022-themes\city-lights\bin\Debug\city-lights.vsix
+C:\Source\vs2022-themes\city-lights\bin\Debug\extension.vsixmanifest
+C:\Source\vs2022-themes\city-lights\obj\Debug\city-lights.csproj.AssemblyReference.cache
+C:\Source\vs2022-themes\city-lights\obj\Debug\_EmptyResource.resources
+C:\Source\vs2022-themes\city-lights\obj\Debug\city-lights.csproj.GenerateResource.cache
+C:\Source\vs2022-themes\city-lights\obj\Debug\city-lights.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\vs2022-themes\city-lights\obj\Debug\city-lights.csproj.CoreCompileInputs.cache
+C:\Source\vs2022-themes\city-lights\obj\Debug\city-lights.dll
+C:\Source\vs2022-themes\city-lights\obj\Debug\city-lights.pdb
+C:\Source\vs2022-themes\city-lights\obj\Debug\extension.vsixmanifest
+C:\Source\vs2022-themes\city-lights\obj\Debug\files.json
+C:\Source\vs2022-themes\city-lights\obj\Debug\createTemplateManifests.cache

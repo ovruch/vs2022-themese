@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "houston", "houston.csproj", "{18C2BBA4-91EC-423D-897D-AFC8BDB6D286}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|arm64 = Debug|arm64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|arm64 = Release|arm64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18C2BBA4-91EC-423D-897D-AFC8BDB6D286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18C2BBA4-91EC-423D-897D-AFC8BDB6D286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18C2BBA4-91EC-423D-897D-AFC8BDB6D286}.Debug|arm64.ActiveCfg = Debug|arm64
+		{18C2BBA4-91EC-423D-897D-AFC8BDB6D286}.Debug|arm64.Build.0 = Debug|arm64
+		{18C2BBA4-91EC-423D-897D-AFC8BDB6D286}.Debug|x86.ActiveCfg = Debug|x86
+		{18C2BBA4-91EC-423D-897D-AFC8BDB6D286}.Debug|x86.Build.0 = Debug|x86
+		{18C2BBA4-91EC-423D-897D-AFC8BDB6D286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18C2BBA4-91EC-423D-897D-AFC8BDB6D286}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18C2BBA4-91EC-423D-897D-AFC8BDB6D286}.Release|arm64.ActiveCfg = Release|arm64
+		{18C2BBA4-91EC-423D-897D-AFC8BDB6D286}.Release|arm64.Build.0 = Release|arm64
+		{18C2BBA4-91EC-423D-897D-AFC8BDB6D286}.Release|x86.ActiveCfg = Release|x86
+		{18C2BBA4-91EC-423D-897D-AFC8BDB6D286}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {741EFB3D-0C72-4D37-AF74-4D495E07A9D8}
+	EndGlobalSection
+EndGlobal

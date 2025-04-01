@@ -1,0 +1,13 @@
+C:\Source\vs2022-themes\one-candy-dark\bin\Debug\one-candy-dark.pkgdef
+C:\Source\vs2022-themes\one-candy-dark\bin\Debug\one-candy-dark.vsix
+C:\Source\vs2022-themes\one-candy-dark\bin\Debug\extension.vsixmanifest
+C:\Source\vs2022-themes\one-candy-dark\obj\Debug\one-candy-dark.csproj.AssemblyReference.cache
+C:\Source\vs2022-themes\one-candy-dark\obj\Debug\_EmptyResource.resources
+C:\Source\vs2022-themes\one-candy-dark\obj\Debug\one-candy-dark.csproj.GenerateResource.cache
+C:\Source\vs2022-themes\one-candy-dark\obj\Debug\one-candy-dark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\vs2022-themes\one-candy-dark\obj\Debug\one-candy-dark.csproj.CoreCompileInputs.cache
+C:\Source\vs2022-themes\one-candy-dark\obj\Debug\one-candy-dark.dll
+C:\Source\vs2022-themes\one-candy-dark\obj\Debug\one-candy-dark.pdb
+C:\Source\vs2022-themes\one-candy-dark\obj\Debug\extension.vsixmanifest
+C:\Source\vs2022-themes\one-candy-dark\obj\Debug\files.json
+C:\Source\vs2022-themes\one-candy-dark\obj\Debug\createTemplateManifests.cache
