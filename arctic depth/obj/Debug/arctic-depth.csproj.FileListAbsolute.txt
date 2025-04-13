@@ -1,0 +1,13 @@
+C:\Source\vs2022-themes\arctic depth\bin\Debug\arctic-depth.pkgdef
+C:\Source\vs2022-themes\arctic depth\bin\Debug\arctic-depth.vsix
+C:\Source\vs2022-themes\arctic depth\bin\Debug\extension.vsixmanifest
+C:\Source\vs2022-themes\arctic depth\obj\Debug\arctic-depth.csproj.AssemblyReference.cache
+C:\Source\vs2022-themes\arctic depth\obj\Debug\_EmptyResource.resources
+C:\Source\vs2022-themes\arctic depth\obj\Debug\arctic-depth.csproj.GenerateResource.cache
+C:\Source\vs2022-themes\arctic depth\obj\Debug\arctic-depth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\vs2022-themes\arctic depth\obj\Debug\arctic-depth.csproj.CoreCompileInputs.cache
+C:\Source\vs2022-themes\arctic depth\obj\Debug\arctic-depth.dll
+C:\Source\vs2022-themes\arctic depth\obj\Debug\arctic-depth.pdb
+C:\Source\vs2022-themes\arctic depth\obj\Debug\extension.vsixmanifest
+C:\Source\vs2022-themes\arctic depth\obj\Debug\files.json
+C:\Source\vs2022-themes\arctic depth\obj\Debug\createTemplateManifests.cache
